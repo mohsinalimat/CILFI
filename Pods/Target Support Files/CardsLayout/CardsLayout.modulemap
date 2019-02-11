@@ -1,0 +1,6 @@
+framework module CardsLayout {
+  umbrella header "CardsLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
